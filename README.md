@@ -3,7 +3,7 @@
 
 ## 목적
 ```sh
-pip install git+<현재 url>
+pip install git+https://github.com/2021-hknu-cd-hate-speech-classfication/test.git
 ```
 
 ```py
